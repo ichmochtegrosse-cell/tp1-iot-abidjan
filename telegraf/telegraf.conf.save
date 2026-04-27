@@ -9,6 +9,6 @@
 
 [[outputs.influxdb_v2]]
   urls = ["http://influxdb:8086"]
-  token = "Qh7AhRO-GmSK4TQvDmzo741hOwUeU73hC7LLItXJzfX3ztZOIUv0LXFWmbw2AZWQ4u5SYcSPIMkaX6eJrLBrgA=="
-  organization = "UFHB-IoT"
+  token = "8TWT-0xzGImWj_5pK3MQ0zNqiNLqdeICH75Vsu2zdISuHpdu4EpgruU3_pfbjZ2ldIsv1nVyy5HcWdSvJ0973w=="  
+organization = "UFHB-IoT"
   bucket = "raw_7d"

@@ -1,6 +1,6 @@
 # TP1 IoT — Stack MQTT + InfluxDB + Grafana
 
-**Étudiant :** KOUADIO KOUASSI HIPOLITE  
+**Étudiants :** KOUADIO KOUASSI HIPOLITE — KOMOE EDGAR JUNIOR — AMONCOU DIOM SEBASTIEN  
 **Formation :** Master 1 Bases de Données & Génie Logiciel — UFHB Abidjan  
 **Année :** 2025-2026
 
